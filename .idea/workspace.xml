@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f2ba8e5-3338-4b53-8421-8911930728b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ITPE-4-IoTs-Middleware .iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/458484497_440765765061927_7722037860523626444_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/spc logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="1f2ba8e5-3338-4b53-8421-8911930728b6" name="Changes" comment="ADDED: Face and eye detection">
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +65,19 @@
       <option name="presentableId" value="Default" />
       <updated>1726549808612</updated>
     </task>
+    <task id="LOCAL-00001" summary="ADDED: Face and eye detection">
+      <option name="closed" value="true" />
+      <created>1726622647098</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726622647098</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ADDED: Face and eye detection" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADDED: Face and eye detection" />
   </component>
 </project>
